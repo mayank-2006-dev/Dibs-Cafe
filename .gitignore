@@ -1,0 +1,13 @@
+node_modules/
+.next/
+dist/
+build/
+.DS_Store
+*.log
+vite-dev.err.log
+vite-dev.out.log
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
